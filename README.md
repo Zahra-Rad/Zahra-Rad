@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Zahra-Rad](https://github.com/Zahra-Rad)
 
-- 💬 Ask me about **Javascript, Scss, css3, html5**
+- 💬 Ask me about **Next, React**
 
 - 📫 How to reach me **zahrakrad76@gmail.com**
 
